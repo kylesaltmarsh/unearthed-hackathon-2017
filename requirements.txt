@@ -1,0 +1,8 @@
+wavio
+numpy
+scipy
+matplotlib
+pandas
+sklearn
+scikit-learn
+auto-sklearn
